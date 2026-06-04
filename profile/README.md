@@ -30,10 +30,6 @@ Software in this organization powers the Daktari Online platform, including:
 
 ---
 
-## Repositories
-
-This organization hosts the codebases behind Daktari Online's web platform, APIs, and supporting services. Each repository includes its own documentation and setup instructions.
-
 ---
 
 ## Security
