@@ -17,20 +17,7 @@ Daktari Online bridges the gap between healthcare education and practice by deli
 - **Professional Community** — Connecting doctors, nurses, pharmacists, and allied health professionals
 - **Healthcare Business Education** — Equipping clinicians with the knowledge to build and sustain health institutions
 
----
 
-## What We Build
-
-Software in this organization powers the Daktari Online platform, including:
-
-- Webinar management and Zoom integration systems
-- CPD tracking and certificate issuance
-- Healthcare professional profiles and community tools
-- Event scheduling, registration, and notifications
-
----
-
----
 
 ## Security
 
